@@ -1,2 +1,1 @@
-# 🚀 Sessions – Tab Manager Chrome Extension
-#Session: Browser based profile extension. 
+# 🚀 Official website of Sessions – Tab Manager Chrome Extension
