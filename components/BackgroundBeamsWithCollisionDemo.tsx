@@ -1,5 +1,4 @@
 "use client";
-
 import React from "react";
 import { BackgroundBeamsWithCollision } from "@/components/ui/background-beams-with-collision";
 import { ContainerTextFlip } from "@/components/ui/container-text-flip";
